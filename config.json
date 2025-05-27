@@ -1,0 +1,9 @@
+{
+    "edl_list_names": ["edl-list1.txt","edl-list2.txt","edl-list3.txt"],
+    "source": "./",
+    "expires": 30,
+    "default_comment": "",
+    "permanent_comment": "* permanent",
+    "overwrite_original": false,
+    "always_overwrite": true
+}
