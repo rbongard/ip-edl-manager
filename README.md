@@ -27,6 +27,8 @@ edit the config.json file to suit your needs.
 
 Each line should have an ip/subnet, a comment, and a date_added. However, the comment and date_added are optional as long as the # for a blank comment is set when adding the date_added field. Note, item 2 above. If no date is specified, the entry is considered permanent.
 
+date_added is in the format of YYYY-MM-DD. eg 2025-02-22
+
 *source*: enter the folder name where the txt files are located.
 
     "C:\\inetpub\\wwwroot"
